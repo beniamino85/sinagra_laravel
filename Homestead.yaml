@@ -7,7 +7,7 @@ keys:
     - ~/.ssh/id_rsa
 folders:
     -
-        map: 'C:\Users\admin\PhpstormProjects\laravel'
+        map: .
         to: /home/vagrant/code
 sites:
     -
